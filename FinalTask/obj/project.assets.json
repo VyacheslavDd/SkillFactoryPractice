@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\skill\\SkillFactoryPractice\\SkillFactory\\SkillFactory.csproj",
-      "projectName": "SkillFactory",
-      "projectPath": "C:\\skill\\SkillFactoryPractice\\SkillFactory\\SkillFactory.csproj",
+      "projectUniqueName": "C:\\skill\\SkillFactoryPractice\\FinalTask\\FinalTask.csproj",
+      "projectName": "FinalTask",
+      "projectPath": "C:\\skill\\SkillFactoryPractice\\FinalTask\\FinalTask.csproj",
       "packagesPath": "C:\\Users\\Slava\\.nuget\\packages\\",
-      "outputPath": "C:\\skill\\SkillFactoryPractice\\SkillFactory\\obj\\",
+      "outputPath": "C:\\skill\\SkillFactoryPractice\\FinalTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Slava\\AppData\\Roaming\\NuGet\\NuGet.Config",

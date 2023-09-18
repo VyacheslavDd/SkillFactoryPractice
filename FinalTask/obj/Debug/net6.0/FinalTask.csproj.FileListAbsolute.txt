@@ -1,0 +1,15 @@
+C:\skill\SkillFactoryPractice\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\skill\SkillFactoryPractice\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\skill\SkillFactoryPractice\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\skill\SkillFactoryPractice\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\skill\SkillFactoryPractice\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\skill\SkillFactoryPractice\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
