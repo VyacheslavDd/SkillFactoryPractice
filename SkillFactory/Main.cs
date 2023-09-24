@@ -1,4 +1,5 @@
 ﻿using SkillFactory.Programs;
 using SkillFactory.Programs.Module_1;
+using SkillFactory.Programs.Module_2;
 
-Task_1_5_2.GetDirectorySize("none");
+Task_2_6_2.SortEvent();
