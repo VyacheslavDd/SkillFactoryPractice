@@ -19,7 +19,7 @@ namespace SkillFactory.Programs.Module_3
             public void Error(string message);
         }
 
-        private class Calculator : ICalculator, ILogger
+        private class Logger : ILogger
         {
             public void Error(string message)
             {
@@ -34,6 +34,15 @@ namespace SkillFactory.Programs.Module_3
                 Console.WriteLine(message);
                 Console.BackgroundColor = ConsoleColor.Black;
             }
+        }
+
+        private class Calculator : ICalculator
+        {
+            public ILogger Logger { get; }
+            public Calculator(ILogger logger)
+            {
+                Logger = logger;
+            }
 
             public double Sum(double a, double b)
             {
@@ -43,16 +52,16 @@ namespace SkillFactory.Programs.Module_3
 
         public static void InterfaceCalculatorShowCase()
         {
-            var calculator = new Calculator();
+            var calculator = new Calculator(new Logger());
             try
             {
                 var firstNumber = double.Parse(Console.ReadLine());
                 var secondNumber = double.Parse(Console.ReadLine());
-                calculator.Success(calculator.Sum(firstNumber, secondNumber).ToString());
+                calculator.Logger.Success(calculator.Sum(firstNumber, secondNumber).ToString());
             }
             catch (FormatException ex)
             {
-                calculator.Error(ex.Message);
+                calculator.Logger.Error(ex.Message);
             }
             finally
             {
