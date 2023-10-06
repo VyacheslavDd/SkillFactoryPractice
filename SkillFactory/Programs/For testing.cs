@@ -8,6 +8,15 @@ namespace SkillFactory.Programs
 {
     internal class For_testing
     {
-        
+        public static void Test()
+        {
+            var stack = new Stack<int>();
+            stack.Push(1);
+            stack.Push(2);
+            foreach (var num in stack)
+            {
+                Console.WriteLine(num);
+            }
+        }
     }
 }

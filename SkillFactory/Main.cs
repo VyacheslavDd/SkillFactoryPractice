@@ -2,5 +2,6 @@
 using SkillFactory.Programs.Module_1;
 using SkillFactory.Programs.Module_2;
 using SkillFactory.Programs.Module_3;
+using SkillFactory.Programs.Module_4;
 
-Task_3_5_1.InterfaceCalculatorShowCase();
+Task_4_6_2.FindMostPopularTenWords();
