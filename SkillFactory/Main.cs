@@ -4,5 +4,6 @@ using SkillFactory.Programs.Module_2;
 using SkillFactory.Programs.Module_3;
 using SkillFactory.Programs.Module_4;
 using SkillFactory.Programs.Module_5;
+using SkillFactory.Programs.Module_6;
 
-Task_5_2_10.PhoneBookTask();
+Module_6_Practice_1.GetStudentsTogether();
