@@ -10,13 +10,6 @@ namespace SkillFactory.Programs
     {
         public static void Test()
         {
-            var stack = new Stack<int>();
-            stack.Push(1);
-            stack.Push(2);
-            foreach (var num in stack)
-            {
-                Console.WriteLine(num);
-            }
         }
     }
 }
