@@ -5,5 +5,7 @@ using SkillFactory.Programs.Module_3;
 using SkillFactory.Programs.Module_4;
 using SkillFactory.Programs.Module_5;
 using SkillFactory.Programs.Module_6;
+using SkillFactory.Programs.Module_8;
+using SkillFactory.Programs.Module_9;
 
-Module_6_Practice_1.GetStudentsTogether();
+Task_9_2_5.CommandPatternTask();
