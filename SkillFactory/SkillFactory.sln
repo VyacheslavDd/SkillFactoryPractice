@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalTask", "..\FinalTask\F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkillFactoryPractice.Tests", "..\SkillFactoryPractice.Tests\SkillFactoryPractice.Tests.csproj", "{A902273D-65E8-4C3F-B817-C9F3131A79C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsFinalTask", "..\PatternsFinalTask\PatternsFinalTask.csproj", "{CC3B3E79-9BB9-4B32-ABDA-B0DAA5EBBE02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternsFinalTask", "..\PatternsFinalTask\PatternsFinalTask.csproj", "{CC3B3E79-9BB9-4B32-ABDA-B0DAA5EBBE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork", "..\SocialNetwork\SocialNetwork.csproj", "{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CC3B3E79-9BB9-4B32-ABDA-B0DAA5EBBE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC3B3E79-9BB9-4B32-ABDA-B0DAA5EBBE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC3B3E79-9BB9-4B32-ABDA-B0DAA5EBBE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
