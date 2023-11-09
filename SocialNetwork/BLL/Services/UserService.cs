@@ -69,5 +69,10 @@ namespace SocialNetwork.BLL.Services
         {
             if (userRepository.Update(user) == 0) throw new Exception("Непредвиденная ошибка при обновлении данных. Попробуйте ещё раз!");
         }
+
+        public void DeleteUsers()
+        {
+            userRepository.DeleteAll();
+        }
     }
 }

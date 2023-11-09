@@ -40,6 +40,11 @@ namespace SocialNetwork.DAL.Repositories
             return Execute(@"update users set firstname = :FirstName, lastname = :LastName, password = :Password, email = :Email,
             photo = :Photo, favouriteMovie = :FavouriteMovie, favouriteBook = :FavouriteBook where id = :Id", userEntity);
         }
+
+        public int DeleteAll()
+        {
+            return Execute(@"delete from users");
+        }
     }
 
     interface IUserRepository
@@ -50,5 +55,6 @@ namespace SocialNetwork.DAL.Repositories
         User FindById(int id);
         int Update(User userEntity);
         int DeleteById(int id);
+        int DeleteAll();
     }
 }

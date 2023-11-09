@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkillFactoryPractice.Tests"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternsFinalTask", "..\PatternsFinalTask\PatternsFinalTask.csproj", "{CC3B3E79-9BB9-4B32-ABDA-B0DAA5EBBE02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork", "..\SocialNetwork\SocialNetwork.csproj", "{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwork", "..\SocialNetwork\SocialNetwork.csproj", "{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Tests", "..\SocialNetwork.Tests\SocialNetwork.Tests.csproj", "{F52FA709-C879-48FA-8A1E-A5C4AA16ABE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7D7B1A-2DCE-4ECD-A98E-0F0469B87E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52FA709-C879-48FA-8A1E-A5C4AA16ABE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52FA709-C879-48FA-8A1E-A5C4AA16ABE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52FA709-C879-48FA-8A1E-A5C4AA16ABE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52FA709-C879-48FA-8A1E-A5C4AA16ABE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
