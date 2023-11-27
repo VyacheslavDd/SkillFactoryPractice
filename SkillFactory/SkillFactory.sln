@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module11ClassLibrary", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module11ConsoleAppPractice", "..\Module11ConsoleAppPractice\Module11ConsoleAppPractice.csproj", "{DD437869-0252-420D-A380-16D54208653F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkPractice", "..\EntityFrameworkPractice\EntityFrameworkPractice.csproj", "{DFBFC3DA-BF59-4B1F-B465-E8AD4E30CF1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkPractice", "..\EntityFrameworkPractice\EntityFrameworkPractice.csproj", "{DFBFC3DA-BF59-4B1F-B465-E8AD4E30CF1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkFinalTask", "..\EntityFrameworkFinalTask\EntityFrameworkFinalTask.csproj", "{6B14D892-B51E-4F2C-AA8B-26CC28F7ED17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkFinalTask", "..\EntityFrameworkFinalTask\EntityFrameworkFinalTask.csproj", "{6B14D892-B51E-4F2C-AA8B-26CC28F7ED17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationTesting", "..\WebApplicationTesting\WebApplicationTesting.csproj", "{CF191F02-C819-4D90-AC56-AAE0FA3F4EB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCWebAppTest", "..\MVCWebAppTest\MVCWebAppTest.csproj", "{2EBAF967-9E37-4625-A567-1CC1B5380CAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{6B14D892-B51E-4F2C-AA8B-26CC28F7ED17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B14D892-B51E-4F2C-AA8B-26CC28F7ED17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B14D892-B51E-4F2C-AA8B-26CC28F7ED17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF191F02-C819-4D90-AC56-AAE0FA3F4EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF191F02-C819-4D90-AC56-AAE0FA3F4EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF191F02-C819-4D90-AC56-AAE0FA3F4EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF191F02-C819-4D90-AC56-AAE0FA3F4EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
