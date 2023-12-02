@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationTesting", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCWebAppTest", "..\MVCWebAppTest\MVCWebAppTest.csproj", "{2EBAF967-9E37-4625-A567-1CC1B5380CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAuthentication", "..\MVCAuthentication\MVCAuthentication.csproj", "{76CB3128-6FE8-439A-AD1A-5B8B9EE432C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EBAF967-9E37-4625-A567-1CC1B5380CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CB3128-6FE8-439A-AD1A-5B8B9EE432C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CB3128-6FE8-439A-AD1A-5B8B9EE432C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CB3128-6FE8-439A-AD1A-5B8B9EE432C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CB3128-6FE8-439A-AD1A-5B8B9EE432C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
